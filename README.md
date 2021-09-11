@@ -6,7 +6,7 @@ This profile shares resources necessary to reproduce results featured in my scie
 -> Generalized Rotne-Prager-Yamakawa codes for caluculating hydrodynamic interactions \
 -> porousGasificationFoam code for thermal and chemical conversion of porous media \
 -> OpenFOAM codes for electrokinetics \
-For more details please browse through the repositories.
+To find more, please browse through the repositories.
 
 
 Currently, I work for two great institutions: \
