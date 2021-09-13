@@ -3,7 +3,7 @@
 my name is Paweł Jan Żuk. I am a physicist. 
 
 This profile shares resources necessary to reproduce results featured in my scientific contributions, which include: \
--> Generalized Rotne-Prager-Yamakawa codes for caluculating hydrodynamic interactions \
+-> Generalized Rotne-Prager-Yamakawa codes for calculating hydrodynamic interactions \
 -> porousGasificationFoam code for thermal and chemical conversion of porous media \
 -> OpenFOAM codes for electrokinetics \
 to find more, please browse through the repositories.
