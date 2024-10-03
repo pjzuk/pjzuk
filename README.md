@@ -15,8 +15,6 @@ Currently, I work for a great institution: \
 other resources:
 [google scholar](https://scholar.google.com/citations?user=FhUzOYgAAAAJ&hl=en&oi=ao), [resarchgate](https://www.researchgate.net/profile/Pawel-Zuk-4), [ORCID](https://orcid.org/0000-0003-0555-5913)
 
-[job offer](https://github.com/pjzuk/openPosition2024) with OpenFOAM available!
-
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjzuk&repo=GRPYlinked&theme=dark&show_owner=true" />
 -->
