@@ -9,7 +9,7 @@ This profile shares resources necessary to reproduce results featured in my scie
 to find more, please browse through the repositories.
 
 
-Currently, I work for a great institution: \
+I work for a great institution: \
 -> [Institute of Physical Chemistry of the Polish Academy of Sciences](https://softmatter.ichf.edu.pl/team/pawel-zuk/) 
 
 other resources:
